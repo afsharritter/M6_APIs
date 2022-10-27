@@ -1,3 +1,13 @@
+#adding config.py file
+config.py
+
+#adding additional files
+API_Practice.ipynb
+API_Practice_2.ipynb
+API_Practice_JSON_get.ipynb
+Get_City_Weather_Data_Big_List.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
